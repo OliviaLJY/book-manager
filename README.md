@@ -24,7 +24,7 @@ Recommendations combine three perspectives: patterns in the genres already in th
 
 ## Demo video
 
-Add your narrated demo link here before submitting: **[Demo video — TODO](https://example.com/replace-with-your-demo-link)**. A good 60–90 second demo shows adding a book, searching for it, and running the parallel recommendation workflow.
+Watch the **[narrated demo video](https://drive.google.com/file/d/10oX6R4LoVLwa1Nze5lMssfAlA0EIYHvX/view?usp=sharing)**. It shows the application running in the terminal and demonstrates the main workflow.
 
 ## Component map
 
